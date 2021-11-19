@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6/kZNYsrkb9IY5bh46MNbN+uYsdBlDdlLj3xCst9DahxekGP/Qx+icszIKKiaiLawOxy+YJ3GRrhsusw6P4Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VitSpec\\source\\repos\\WinFormsApp4\\WinFormsApp4\\WinFormsApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VitSpec\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\VitSpec\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\VitSpec\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\VitSpec\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
